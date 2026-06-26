@@ -19,6 +19,8 @@ I started with the usual HTML/CSS/JS, picked up Python as my main backend langua
 - 🎓 Studying CS
 - 🛠️ Building small web projects
 
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=iainfox&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" height="165"/>
