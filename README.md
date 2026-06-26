@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iainfox/iainfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, I'm Iain 👋
 
-Here are some ideas to get you started:
+Computer science student currently into **web development** front end and back end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### what I'm working with
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Python` · `Node.js`
+
+I started with the usual HTML/CSS/JS, picked up Python as my main backend language, and have since poked around with Node, including what im currently building, a small card game website/app
+
+### what I'm doing now
+
+- 🎓 Studying CS
+- 🛠️ Building small web projects
+
+### stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iainfox&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iainfox&theme=default&hide_border=true" alt="GitHub streak" height="165"/>
+
+</div>
+
+---
